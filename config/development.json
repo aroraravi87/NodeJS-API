@@ -1,0 +1,17 @@
+{
+    "portNumber":"3000",
+    "dbConfig": {
+        "host":"DAFFOLAP-336-PC\\SQLEXPRESS",
+        "port":"1433",
+        "databse":"NodeSample",
+        "connectionLimit": 40,
+        "waitForConnections": true,
+        "dateStrings": true
+    },
+    "credit": {
+      "initialLimit": 100,
+      // Set low for development 
+      "initialDays": 1
+    },
+    "httpMsgs":"JSON"
+}

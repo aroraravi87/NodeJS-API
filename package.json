@@ -1,0 +1,22 @@
+{
+  "name": "loginandsignup",
+  "version": "0.0.1",
+  "description": "login and signup using node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manu Chawla",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "config": "^1.20.3",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "lodash": "^4.13.0",
+    "md5": "^2.1.0",
+    "mssql": "^3.3.0",
+    "mysql": "^2.10.2",
+    "node-uuid": "^1.4.7"
+  }
+}
